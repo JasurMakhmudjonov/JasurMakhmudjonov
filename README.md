@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Food delivery system**
 
-- 📝 I regularly write articles on [https://t.me/jasurmakhmud](https://t.me/jasurlog)
+- 📝 I regularly write articles on [https://t.me/jasurlog](https://t.me/jasurlog)
 
 - 💬 Ask me about **Backend Development with Node.js, Express.js, Nest.js, and Databases**
 
